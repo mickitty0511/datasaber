@@ -19,8 +19,8 @@ data saberを目指して、2022年10月より開始した
 ①Ordeal 0   
 ・Part 1： https://github.com/mickitty0511/datasaber/tree/main/Ordeal%200%20Part1  
 ・Part 2： https://github.com/mickitty0511/datasaber/tree/main/Ordeal%200%20Part2  
-・Part 3：  
-・Part 4：  
+・Part 3： https://github.com/mickitty0511/datasaber/tree/main/Ordeal%200%20Part%203  
+・Part 4： https://github.com/mickitty0511/datasaber/tree/main/Ordeal%200%20Part%204   
 
 ## ■こんな人に本サイトはおすすめ！  
 ・Data Saberを目指している方  
